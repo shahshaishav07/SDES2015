@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Rakesh K K
+Course: M.tech
+Department: Electrical Engineering
+Roll number: 13307r007
+Year: 2015
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+High speed chip-to-chip interface design
